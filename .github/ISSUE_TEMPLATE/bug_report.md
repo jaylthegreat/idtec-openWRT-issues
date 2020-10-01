@@ -22,11 +22,7 @@ Steps to reproduce the behavior:
 4. See error
 
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-
-**Host System Info (should be default values unless you've changed since receiving unit:**
+**Host System Info (should be default values unless changed since receiving unit):**
  - OS:             Ubuntu 18.04
  - Browser:     Chrome
  
@@ -37,3 +33,7 @@ Firmware Version (just part before the slash):
 
 **Additional context**
 Add any other context about the problem here.
+
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
